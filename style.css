@@ -92,7 +92,7 @@ font-weight: 500;
     display: block;
 }
 #portfolio{
-    background:url(./assets/bg.jpg);
+    background:url(bg.jpg);
     background-color:black;
     color:white;
 }
