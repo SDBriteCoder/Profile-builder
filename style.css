@@ -76,7 +76,7 @@ font-weight: 500;
     color:white;
     font-size: 1.8em;
     padding: 10px;
-    border-radius: 5%;
+    border-radius: 10px;
 }
 .link-button:hover{
     color:white;
